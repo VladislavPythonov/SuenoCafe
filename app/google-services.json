@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447726263005",
+    "project_id": "sueno-f2b08",
+    "storage_bucket": "sueno-f2b08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447726263005:android:9cbd37075c6344ddd5d934",
+        "android_client_info": {
+          "package_name": "com.example.sueno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByIj8kd9VwNdP6fH_XSYwTLmJ5UKpnw5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
